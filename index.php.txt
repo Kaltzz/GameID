@@ -1,0 +1,156 @@
+
+
+<html>
+
+<head>
+    <title>Gameid</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="simak2/assets/layout.css" rel="stylesheet" type="text/css" media="all">
+    <link href=" assets/bootstrap.css" rel="stylesheet">
+    <script src="assets/bootstrap.bundle.js"></script>
+
+    <link href=" assets/style.css" rel="stylesheet">
+</head>
+
+<body style="height:1500px">
+
+    <nav class="navbar navbar-expand-sm bg-dark warnatext fixed-top">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.php">HOME</a>
+                    </li>
+                </ul>
+                </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    </nav>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="images/banner5.jpg" alt="Los Angeles" class="d-block" style="width:100%; height:500px">
+      </div>
+    </div>
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+        <div class=" mt-10 backgroundss" style="margin-top: 10px;">
+            <div class="mt-100px p-5 text-white bgt" style="padding-left: 100%;padding-right: 100%; padding-bottom: 100px">
+                <div class="row">
+                </div>
+                <div class="container-fluid mt-3">
+                    <div class="row">
+                        <div class="col p-3 bg-dark text-dark">
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/ml.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn backgroundss5 text-dark" href="ml_page.php">Mobile Legends Bang Bang</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/vl.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">Valorant</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/pb.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">Point Blank</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col p-3 bg-dark text-dark">
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/ff.jpeg" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">Free Fire</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/hd.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">Higgs Domino</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/codm.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">Call of Duty: Mobile</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col p-3 bg-dark text-dark">
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/pubgm.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">PUBG Mobile</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/gi.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">Genshin Impact</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container-fluid" style="margin-top:80px">
+                                <div class="container mt-3" align="center">
+                                    <div class="card" style="width:300px; border: 5px solid light">
+                                        <img class="card-img-top" src="images/aov.png" alt="Card image" style="width:50%; align-self: center; margin-bottom: 20px; margin-top: 30px; border-radius: 10px;">
+                                        <a style="font-weight:1000" class=" btn text-dark" href="">Arena of Valor</a>
+                                        <div class="card-body">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+
+            </div>
+
+</body>
+
+</html>
